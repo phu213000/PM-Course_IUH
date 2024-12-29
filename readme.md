@@ -14,4 +14,7 @@
     #khi muốn kéo những sự thay đổi của nhánh main về nhánh của mình 
     git pull origin main hoặc git rebase origin main 
     #chú ý khi sửa file 
-    #thư mục dự án : https://drive.google.com/drive/u/1/folders/1st3dpT3jry-qEtwIaaBRRN4-c3AkeWSn
+    #thư mục dự án gg drive: https://drive.google.com/drive/u/1/folders/1st3dpT3jry-qEtwIaaBRRN4-c3AkeWSn
+    #link thư mục dự án thường kỳ thực hành 1 : https://drive.google.com/drive/u/1/folders/1VN3KN6ajvGrsw0nw4cYMSoEkV94S8gyd
+    #link canva : https://www.canva.com/design/DAGXMumf4DU/qpq56CS2N3jSCORiU52aRA/edit
+    #link paper : 
