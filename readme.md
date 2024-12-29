@@ -14,3 +14,4 @@
     #khi muốn kéo những sự thay đổi của nhánh main về nhánh của mình 
     git pull origin main hoặc git rebase origin main 
     #chú ý khi sửa file 
+    #thư mục dự án : https://drive.google.com/drive/u/1/folders/1st3dpT3jry-qEtwIaaBRRN4-c3AkeWSn
